@@ -34,8 +34,9 @@ You can implement via Docker as well.
 This can be easily done by following the tutorial here:
 [https://github.com/vijos/jd4#usage](https://github.com/vijos/jd)
 
-## Importance
+## Important Notes
 
-As a production system maintainer, you should always make sure you have backup. So we recommend you to backup the database to some online storage service provider such as Onedrive.
+- As a production system maintainer, you should always make sure you have backup. So we recommend you to backup the database to some online storage service provider such as Onedrive.
 
-Also, the server **should not** have too much computation or network load to ensure the stability of judging service.
+- Also, the server **should not** have too much computation or network load to ensure the stability of judging service.
+- You can use [Uptimebot](https://uptimerobot.com/) to monitor the website status from the public Internet.
